@@ -1,0 +1,6 @@
+{
+  "name": "Flow AI — Content OS for Creators & Brands",
+  "description": "An end-to-end AI Content Operating System. One-time brand onboarding to automated ideas, scenarios, reels, carousels, stories, weekly calendar planning, and pipeline management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
